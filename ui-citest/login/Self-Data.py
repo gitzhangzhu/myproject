@@ -59,4 +59,4 @@ maxnum = '1'
 
 #数据库操作
 mysqlname = 'pymysql'
-connectparams = "database='calm_marketing_ci', user='ci_calm_mkt', password='0zFIu9ulIhs8pfW', host='ci.rdsmaster.cnhz.shishike.com', port=3306, charset='utf8'"
+connectparams = "database='', user='ci_calm_mkt', password='0zFIu9ulIhs8pfW', host='ci.rdsmaster.cnhz.shishike.com', port=3306, charset='utf8'"
